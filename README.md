@@ -3,8 +3,9 @@
    
    I love photography  , traveling ✈️, and I'm a fanatical fan of paradox's games
 
-![](https://github-readme-stats.vercel.app/api?username=machao123343)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=machao123343&layout=compact)
+![Chao Ma's github stats](https://github-readme-stats.vercel.app/api?username=machao123343&show_icons=true)
+![Chao Ma's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=machao123343&layout=compact)
+
 
  ### Get in touch
  [![知乎](https://img.shields.io/badge/知乎-@墨轩-white?logo=zhihu)](https://www.zhihu.com/people/mo-xuan-88-43)
