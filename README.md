@@ -1,4 +1,15 @@
 ### Hi there 👋
+   I'm Chao Ma 马超, a postgraduate student in SJTU, and focus on the application of Bayesian statistical theory in the field of time series and NLP.
+   
+   I love photography  , traveling ✈️, and I'm a fanatical fans of paradox's games
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machao123343)](https://github.com/machao123343/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machao123343&layout=compact)](https://github.com/machao123343/github-readme-stats)
+
+ ### Get in touch
+ [![知乎](https://img.shields.io/badge/知乎-@墨轩-white?logo=zhihu)](https://www.zhihu.com/people/mo-xuan-88-43)
+[![CSDN](https://img.shields.io/badge/CSDN-@历史学的程序员-yellow.svg?style=flat?logo=csdn)](https://blog.csdn.net/qq_40083438)
+
 
 <!--
 **machao123343/machao123343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
