@@ -1,7 +1,7 @@
 ### Hi there 👋
    I'm Chao Ma 马超, a postgraduate student in SJTU, and focus on the application of Bayesian statistical theory in the field of time series and NLP.
    
-   I love photography  , traveling ✈️, and I'm a fanatical fans of paradox's games
+   I love photography  , traveling ✈️, and I'm a fanatical fan of paradox's games
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machao123343)](https://github.com/machao123343/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machao123343&layout=compact)](https://github.com/machao123343/github-readme-stats)
