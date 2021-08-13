@@ -3,8 +3,8 @@
    
    I love photography  , traveling ✈️, and I'm a fanatical fan of paradox's games
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machao123343)](https://github.com/machao123343/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machao123343&layout=compact)](https://github.com/machao123343/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=machao123343)](https://github.com/machao123343/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=machao123343&layout=compact)](https://github.com/machao123343/github-readme-stats)
 
  ### Get in touch
  [![知乎](https://img.shields.io/badge/知乎-@墨轩-white?logo=zhihu)](https://www.zhihu.com/people/mo-xuan-88-43)
