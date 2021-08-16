@@ -10,7 +10,7 @@
  ### Get in touch
  [![知乎](https://img.shields.io/badge/知乎-@墨轩-white?logo=zhihu)](https://www.zhihu.com/people/mo-xuan-88-43)
 [![CSDN](https://img.shields.io/badge/CSDN-@历史学的程序员-yellow.svg?style=flat?logo=csdn)](https://blog.csdn.net/qq_40083438)
-![Blog](https://machao123343.github.io)
+[![Blog](https://img.shields.io/badge/Blog-orange?logo=blog)](https://machao123343.github.io)
 
 <!--
 **machao123343/machao123343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
